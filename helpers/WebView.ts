@@ -3,7 +3,7 @@ export const CONTEXT_REF = {
     WEBVIEW: 'webview',
 };
 const DOCUMENT_READY_STATE = {
-    COMPLETE: 'complete',
+    COMPLETE: 'complete',       chidl2
     INTERACTIVE: 'interactive',
     LOADING: 'loading',
 };
